@@ -83,7 +83,7 @@ div.video-responsive iframe{
 
 .banner-container{
 	width:500px;
-	height:200px;
+	height:300px;
 	margin:1rem auto;
 	overflow: hidden;
 	position: relative;
@@ -91,7 +91,7 @@ div.video-responsive iframe{
 
 .banner-container .banner-img-container {
 	width:2500px;
-	height:200px;
+	height:300px;
 	overflow: hidden;
 	position: absolute;
 	display: flex;
@@ -153,16 +153,16 @@ input:checked + .banner-nav-a {
 	transform: translateX(0px);
 }
 #banner-control-2:checked ~ .banner-img-container{
-	transform: translateX(-1200px);
+	transform: translateX(-500px);
 }
 #banner-control-3:checked ~ .banner-img-container{
-	transform: translateX(-2400px);
+	transform: translateX(-1000px);
 }
 #banner-control-4:checked ~ .banner-img-container{
-	transform: translateX(-3600px);
+	transform: translateX(-1500px);
 }
 #banner-control-5:checked ~ .banner-img-container{
-	transform: translateX(-4800px);
+	transform: translateX(-2000px);
 }
 
 
