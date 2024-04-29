@@ -80,3 +80,25 @@ div.video-responsive iframe{
 	max-height: 315px;
     position:absolute;
 }
+
+.banner-container{
+	width:1200px;
+	height:400px;
+	/* 轮播图居中 */
+	margin:1rem auto;
+	/* 隐藏超出展示容器的内容 */
+	overflow: hidden;
+	position: relative;
+}
+
+.banner-container .banner-img-container {
+	width:6000px;
+	height:400px;
+	overflow: hidden;
+	position: absolute;
+	/* 开启弹性盒，让图片横向排列 */
+	display: flex;
+	animation: run 10s ease infinite;
+}
+
+
