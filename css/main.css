@@ -101,4 +101,10 @@ div.video-responsive iframe{
 	animation: run 10s ease infinite;
 }
 
+.banner-container .banner-img-container img{
+	width:1200px;
+	height:100%;
+}
+
+
 
