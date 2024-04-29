@@ -83,7 +83,7 @@ div.video-responsive iframe{
 
 .banner-container{
 	width:600px;
-	height:450px;
+	height:400px;
 	margin:1rem auto;
 	overflow: hidden;
 	position: relative;
@@ -91,7 +91,7 @@ div.video-responsive iframe{
 
 .banner-container .banner-img-container {
 	width:3000px;
-	height:450px;
+	height:400px;
 	overflow: hidden;
 	position: absolute;
 	display: flex;
@@ -100,7 +100,7 @@ div.video-responsive iframe{
 
 .banner-container .banner-img-container  img{
 	width:600px;
-	height:450px;
+	height:400px;
 }
 
 /* 轮播图圆点样式 */
