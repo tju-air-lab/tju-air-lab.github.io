@@ -107,7 +107,7 @@ div.video-responsive iframe{
 .banner-container a {
 	width:12px;
 	height:12px;
-	background:#87c8eb;
+	background:#1B49F2;
 	position: absolute;
 	bottom:1rem;
 	border-radius: 100%;
@@ -145,7 +145,7 @@ div.video-responsive iframe{
 /* 设置高亮 */
 /*当 input 被选中时 他的兄弟级a标签高亮展示*/
 input:checked + .banner-nav-a {
-    background-color: #ad244f;
+    background-color: #1E1E6B;
 }
 
 /* 设置轮播图动画 */
