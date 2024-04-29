@@ -107,4 +107,33 @@ div.video-responsive iframe{
 }
 
 
+/* 轮播图关键帧 */
+/* 自动轮播 */
+@keyframes run {
+	0%,10%{
+		/* margin-left: 0; */
+		transform: translateX(0);
+	}
+	20%,30%{
+		/* margin-left: -1200px;; */
+		transform: translateX(-1200px);
+	}
+	40%,50%{
+		/* margin-left: -2400px; */
+		transform: translateX(-2400px);
+	}
+	60%,70%{
+		/* margin-left: -3600px; */
+		transform: translateX(-3600px);
+	}
+	80%,90%{
+		/* margin-left: -4800px; */
+		transform: translateX(-4800px);
+	}
+	100%{
+		/* margin-left: 0; */
+		transform: translateX(0);
+	}
+}
+
 
