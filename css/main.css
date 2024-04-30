@@ -83,6 +83,10 @@ div.video-responsive iframe{
     position:absolute;
 }
 
+td {
+    vertical-align: top;
+}
+
 .banner-container{
 	width:600px;
 	height:400px;
