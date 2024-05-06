@@ -96,7 +96,7 @@ td {
 }
 
 .banner-container .banner-img-container {
-	width:3000px;
+	width:2400px;
 	height:400px;
 	overflow: hidden;
 	position: absolute;
@@ -167,9 +167,7 @@ input:checked + .banner-nav-a {
 #banner-control-4:checked ~ .banner-img-container{
 	transform: translateX(-1800px);
 }
-#banner-control-5:checked ~ .banner-img-container{
-	transform: translateX(-2400px);
-}
+
 
 
 
