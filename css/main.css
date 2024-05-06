@@ -133,20 +133,18 @@ td {
 }
 /* 设置导航圆点偏移量（居中布局）*/
 #banner-control-1,#banner-control-1 + .banner-nav-a{
-    left: 30%;
+    left: 35%;
 }
 #banner-control-2,#banner-control-2 + .banner-nav-a{
-    left: 40%;
+    left: 45%;
 }
 #banner-control-3,#banner-control-3 + .banner-nav-a{
-    left: 50%;
+    left: 55%;
 }
 #banner-control-4,#banner-control-4 + .banner-nav-a{
-    left: 60%;
+    left: 65%;
 }
-#banner-control-5,#banner-control-5 + .banner-nav-a{
-    left: 70%;
-}
+
 
 /* 设置高亮 */
 /*当 input 被选中时 他的兄弟级a标签高亮展示*/
