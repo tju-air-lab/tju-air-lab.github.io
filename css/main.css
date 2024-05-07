@@ -82,7 +82,12 @@ div.video-responsive iframe{
 	max-height: 315px;
     position:absolute;
 }
-
+/*列表滚动*/
+div{
+        height: 450px;
+        overflow-y: scroll;
+}
+/*两端对齐*/
 .justify1{
        text-align: justify;
        text-justify: newspaper;
