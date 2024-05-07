@@ -82,6 +82,7 @@ div.video-responsive iframe{
 	max-height: 315px;
     position:absolute;
 }
+
 /*列表滚动*/
 .scroll1{
 /*设置可见部分的高度*/
@@ -92,15 +93,18 @@ div.video-responsive iframe{
   overflow-y: scroll;
 /*overflow:hidden样式可以不写，因为scroll会自动隐藏超出content高度的部分*/
 }
+
 /*两端对齐*/
 .justify1{
        text-align: justify;
        text-justify: newspaper;
 }
 
+/*表格内容上端对齐*/
 td {
     vertical-align: top;
 }
+
 /*图片轮播格式*/
 .banner-container{
 	width:600px;
