@@ -83,10 +83,15 @@ div.video-responsive iframe{
     position:absolute;
 }
 
+.justify1{
+       text-align: justify;
+       text-justify: inter-ideograph;
+}
+
 td {
     vertical-align: top;
 }
-
+/*图片轮播格式*/
 .banner-container{
 	width:600px;
 	height:400px;
