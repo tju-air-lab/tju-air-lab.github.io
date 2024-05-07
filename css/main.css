@@ -83,7 +83,15 @@ div.video-responsive iframe{
     position:absolute;
 }
 /*列表滚动*/
-
+.scroll1{
+/*设置可见部分的高度*/
+  height: 150px;
+/*随便设置个颜色区分可滚动区域和其他区域*/
+  background-color: whrite;
+/*设置在竖直方向上可滚动*/
+  overflow-y: scroll;
+/*overflow:hidden样式可以不写，因为scroll会自动隐藏超出content高度的部分*/
+}
 /*两端对齐*/
 .justify1{
        text-align: justify;
