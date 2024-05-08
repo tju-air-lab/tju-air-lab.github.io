@@ -34,6 +34,8 @@ p {
     line-height: 1.1em;
     color: #333;
 }
+p.normal {font-weight: normal}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
