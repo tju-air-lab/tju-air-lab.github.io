@@ -9,13 +9,6 @@ nav ul, footer ul {
     font-weight: bold;
 	
 }
-nav ul.normal, footer ul.normal {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: normal;
-	
-}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -99,6 +92,7 @@ div.video-responsive iframe{
 /*设置在竖直方向上可滚动*/
   overflow-y: scroll;
 /*overflow:hidden样式可以不写，因为scroll会自动隐藏超出content高度的部分*/
+	 font-weight: normal;
 }
 
 /*两端对齐*/
