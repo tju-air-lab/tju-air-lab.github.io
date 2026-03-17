@@ -186,6 +186,72 @@ input:checked + .banner-nav-a {
 	transform: translateX(-1800px);
 }
 
+/* 图片展示 */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    margin-top: 100px;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(243, 243, 243);
+}
+
+.content {
+    margin: auto;
+    width: 80%;
+    height: 400px;
+    background-color: rgb(243, 243, 243);
+}
+
+.content h3 {
+    border-bottom: 1px solid rgb(221, 221, 221);
+    height: 35px;
+}
+
+.span1 {
+    border-bottom: 1px solid rgb(217, 49, 36);
+    padding-bottom: 10px;
+}
+
+.a1 {
+    float: right;
+    color: rgb(170, 170, 170);
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.box .content ul li {
+    float: left;
+    width: 23%;
+    margin: 15px 1%;
+    display: block;
+    text-decoration: none;
+}
+
+.box .content ul li img {
+    width: 100%;
+}
+
+.box .content ul li h4 {
+    margin-top: 10px;
+    font-weight: 500;
+    color: rgb(217, 49, 36);
+}
+
+.box .content ul li p {
+    margin-top: 10px;
+    color: #999;
+    font-size: 14px;
+    font-weight: 500px;
+}
+
+.box .content ul a p:hover {
+    color: rgb(217, 49, 36);
+}
 
 
-
+/* 图片展示 */
